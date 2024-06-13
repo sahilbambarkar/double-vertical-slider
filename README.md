@@ -25,6 +25,4 @@
 - Run the index.html file
 - Start Scrolling!!!
 
-<h3> ScreenShots </h3> 
 
-<
